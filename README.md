@@ -156,6 +156,15 @@ Models Fitted:
 - The current models exhibit poor fit due to the limited dataset available. Efforts to locate additional data prior to 1987 were unsuccessful. Despite this, the results indicate that predicting delinquency rates based on economic outlook is feasible and meaningful with a more comprehensive selection of target variables and improved optimization techniques.
 
 - Further exploration could involve retraining the models using a broader range of economic datasets in combination with the current ones. Additional improvements can be achieved by fine-tuning model hyperparameters and employing ensemble methods such as boosting, which combines several weak learners for better performance. These steps could significantly enhance the model's predictive capabilities with additional time and resources.
+
+<h3>Literature Reference</h3>
+
+- [Machine Learning in Banking Risk Management: A Literature Review (2019)](https://www.mdpi.com/2227-9091/7/1/29)
+- [Consumer Credit-Risk Models via Machine-Learning Algorithms (2010)](https://www.sciencedirect.com/science/article/abs/pii/S0378426610002372)
+- [Machine Learning for Corporate Default Risk: Multi-Period Prediction, Frailty Correlation, Loan Portfolios, and Tail Probabilities (2023)](https://www.sciencedirect.com/science/article/pii/S0377221722005100)
+- [A Comparison of Prediction Methods for Credit Default on Peer to Peer Lending using Machine Learning (2019)](https://www.sciencedirect.com/science/article/pii/S1877050919310579)
+- [Explainable Prediction of Loan Default Based on Machine Learning Models (2023)](https://www.sciencedirect.com/science/article/pii/S2666764923000218)
+- [National Student Loans Default Risk Prediction: A Heterogeneous Ensemble Learning Approach and the SHAP Method (2023)](https://www.sciencedirect.com/science/article/pii/S2666920X23000450)
 <!--
  ```diff
 - text in red
