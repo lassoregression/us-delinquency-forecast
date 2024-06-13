@@ -54,8 +54,9 @@ which aids in estimating the likelihood of a prospective default by small or lar
 - Inflation rate
 - Interest rate
 - Gov. debt to GDP
-- Current account to GDP, Fiscal
-- Expenditure, CPI
+- Current account to GDP
+- Fiscal Expenditure
+- CPI
 - Food Inflation
 - Business confidence
 - Consumer confidence
