@@ -1,6 +1,4 @@
-# us-delinquency-forecast
-
-<h1>Forecasting U.S. Delinquency Rates ft. Economic Data (Py)</h1>
+<h1>Forecasting U.S. Delinquency Rates using Economic Data (Py)</h1>
 
 
 <h2>Problem Statement</h2>
