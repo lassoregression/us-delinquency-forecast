@@ -1,13 +1,8 @@
-<h1>Forecasting U.S. Delinquency Rates using Economic Data (Py)</h1>
+<h1>Forecasting U.S. Delinquency Rates using Economic Indicators (Py)</h1>
 
 
 <h2>Problem Statement</h2>
-Developing a Credit default model that provides broader view on potentially default value to financial
-institutions as their risk models evolved over the time to reduce their Credit Risk.
-
-Objective:
-Prediction (using ML Algorithms) delinquency or default rates considering the economic outlook
-which aids in estimating the likelihood of a prospective default by small or large corporations.
+The project aimed to forecast U.S. consumer loan delinquency rates using economic indicators from FRED and WRDS databases. Implementing regression models, specifically Lasso and Ridge regression, addressed issues of variable selection and multicollinearity. 
 
 
 <h2>Language Used</h2>
